@@ -7,3 +7,9 @@
 - Open Source code
 
 - jangan Ricod mulu ya ^_^
+
+- Donasi bro biar aku bisa jajan hehe
+
+- link : https://saweria.co/Mr1557
+
+
