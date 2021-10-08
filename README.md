@@ -1,5 +1,5 @@
 ## Personal data
-```json
+```js
 DATE1 {
       'NAMA':'ALDI BACHTIAR RIFAI',
       'UMUR':'14 TAHUN',
