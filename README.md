@@ -1,5 +1,5 @@
 ## Personal data
-```js
+```python
 DATE1 {
       'NAMA':'ALDI BACHTIAR RIFAI',
       'UMUR':'14 TAHUN',
