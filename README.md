@@ -1,5 +1,5 @@
 ## Personal data
-```php
+```json
 DATE1 {
       'NAMA':'ALDI BACHTIAR RIFAI',
       'UMUR':'14 TAHUN',
