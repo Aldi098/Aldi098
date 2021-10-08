@@ -1,4 +1,4 @@
-## Personal data
+## Personal date
 ```python
 DATE1 {
       'NAMA':'ALDI BACHTIAR RIFAI',
