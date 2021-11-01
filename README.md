@@ -13,7 +13,7 @@ DATE2 {
       }
 
 MEDIA {
-      'YOUTUBE':'MR.1557',
+      'YOUTUBE':'ALDI BACHTIAR RIFAI',
       'FACEBOOK':'ALDI RIFAI',
       'WHATSAPP':'+62 852-9500-4078'
       }
