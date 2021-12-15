@@ -19,6 +19,9 @@ MEDIA {
       }
 ```
 
+🤖 Robot Zen
+🔨 Sekolah
+
 ## Support Me On
 <b>• [Youtube](https://youtube.com/channel/UC7ygjAbDjuiN76PqOlJm40A)</b>
 </br>
