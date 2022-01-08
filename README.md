@@ -1,8 +1,7 @@
 ## Personal date
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FF0000&lines=WELCOME+TO+MY+GITHUB+XENZI+GANZ)](https://git.io/typing-svg)
 
-🤖 Robot Zen
-🔨 Sekolah
 
 ## Support Me On
 <b>• [Youtube](https://youtube.com/channel/UC7ygjAbDjuiN76PqOlJm40A)</b>
