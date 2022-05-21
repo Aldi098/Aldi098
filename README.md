@@ -1,4 +1,4 @@
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aldi098&show_icons=true&locale=id" alt="Aldi098"/></p>
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aldi098&layout=compact&theme=chartreuse-dark" />
 
 - My social media
