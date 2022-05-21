@@ -13,7 +13,7 @@
 - Programing Language
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
-![Flask](https://img.shields.io/badge/-Python-000?&logo=Flask)
-![php](https://img.shields.io/badge/-Python-000?&logo=php)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=Flask)
+![php](https://img.shields.io/badge/-Php-000?&logo=php)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Aldi098&label=Profile%20views&color=0e75b6&style=flat" alt="Aldi098"/></p>
