@@ -9,3 +9,6 @@
 ## WhatsApp
 <b>• [WhatsApp](https://api.whatsapp.com/send?phone=+62852-9500-4078&text=Assalamualaikum)</b>
 <br>
+
+> User 
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
