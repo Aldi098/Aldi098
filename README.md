@@ -1,5 +1,5 @@
 
-
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aldi098&layout=compact&theme=chartreuse-dark" />
 - My social media
 
 <p align="left">
