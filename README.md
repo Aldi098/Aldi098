@@ -1,4 +1,4 @@
-<!--![](https://github.com/imKashyap/imKashyap/blob/master/banner.png)-->
+<!--![](https://github.com/Aldi098/Aldi098/blob/main/20220122_162251.jpg)-->
 <p align="center"> <h1 align="center"> Hi, I am Aldi Bachtiar rifai 👋</h1> </p>
 <p align="center">
 <a href="https://youtube.com/channel/UCznrNUtKu0uDqt2AT8N93-Q"><img src="https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=YouTube&logoColor=white"/> </a>
