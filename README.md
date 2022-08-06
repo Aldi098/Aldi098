@@ -23,7 +23,7 @@
   ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
   ![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php&logoColor=1572B6)
 
-### My Biodata
+**💻 &nbsp;My Biodata**
 ```python
 return {
     "Full name": "Aldi Bachtiar rifai",
