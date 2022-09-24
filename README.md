@@ -25,14 +25,21 @@
 
 **💻 &nbsp;My Biodata**
 ```python
-return {
-    "Full name": "Aldi Bachtiar rifai",
-    "Nick name": "Xenzi Ganz",
-    "Status": "Pelajar SMP 3",
-    "City": "Bandung",
-    "Province": "Jawa Barat",
-    "Country": "Indonesia",
-    "Age": "14 years",
-    "Birthday": "xx/01/2007"
-} 
+class Bio:
+     def __init__(self):
+          self.data()
+     def data(self):
+          Biodata = {
+           "Full name": "Aldi Bachtiar rifai",
+           "Nick name": "Xenzi Ganz",
+           "Status": "Pelajar SMP 3",
+           "City": "Bandung",
+           "Province": "Jawa Barat",
+           "Country": "Indonesia",
+           "Age": "14 years",
+           "Birthday": "xx/01/2007"
+          } 
+          print (Biodata)
+if __name__=="__main__":
+      Bio()
 ```
