@@ -30,7 +30,6 @@ class Bio:
           self.data()
      def data(self):
           Biodata = {
-           "Full name": "Aldi Bachtiar rifai",
            "Nick name": "Xenzi Ganz",
            "Status": "Pelajar SMP 3",
            "City": "Bandung",
